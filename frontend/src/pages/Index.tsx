@@ -174,7 +174,7 @@ const Index = () => {
               <Code2 className="w-6 h-6 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="text-xl font-bold tracking-tight">VsAlgo</h1>
+              <h1 className="text-xl font-bold tracking-tight">AlgoLab</h1>
               <p className="text-xs text-muted-foreground">
                 Apprends l'algorithmique en français
               </p>

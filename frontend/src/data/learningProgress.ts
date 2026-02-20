@@ -24,7 +24,7 @@ export interface LearnerProfile {
   modulesProgress: Record<string, ModuleProgress>;
 }
 
-const STORAGE_KEY = 'vsalgo_learner_profile';
+const STORAGE_KEY = 'algolab_learner_profile';
 
 export const getDefaultProfile = (): LearnerProfile => ({
   totalXp: 0,

@@ -22,7 +22,7 @@ const Home = () => {
           <div className="p-2 rounded-xl bg-gradient-to-br from-primary to-secondary">
             <Code2 className="w-6 h-6 text-primary-foreground" />
           </div>
-          <span className="text-xl font-bold tracking-tight">VsAlgo</span>
+          <span className="text-xl font-bold tracking-tight">AlgoLab</span>
         </div>
 
         <nav className="hidden md:flex items-center gap-8 text-sm font-medium text-muted-foreground">
@@ -57,7 +57,7 @@ const Home = () => {
           </h1>
 
           <p className="text-lg sm:text-xl text-muted-foreground max-w-lg leading-relaxed">
-            VsAlgo est ta passerelle vers le monde de la programmation.
+            AlgoLab est ta passerelle vers le monde de la programmation.
             Écris, exécute et visualise tes algorithmes pas à pas,
             le tout avec une syntaxe 100% française.
           </p>
@@ -77,7 +77,7 @@ const Home = () => {
               className="group inline-flex items-center justify-center gap-3 px-8 py-4 rounded-xl text-base font-semibold border-2 border-border bg-card/60 backdrop-blur-sm text-foreground hover:bg-card hover:border-primary/40 hover:scale-[1.02] transition-all duration-200"
             >
               <Code2 className="w-5 h-5" />
-              Ouvrir VsAlgo
+              Ouvrir AlgoLab
               <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
             </Link>
           </div>

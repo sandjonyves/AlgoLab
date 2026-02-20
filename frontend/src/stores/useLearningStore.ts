@@ -380,7 +380,7 @@ export const useLearningStore = create<LearningState>()(
         }),
     }),
     {
-      name: 'vsalgo-learning-storage',
+      name: 'algolab-learning-storage',
       version: 1,
     }
   )

@@ -63,7 +63,7 @@ export const Certificate: React.FC<CertificateProps> = ({
           <h1 className="text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-amber-600 to-orange-600 mb-2">
             Certificat de Réussite
           </h1>
-          <p className="text-muted-foreground mb-8">Variable Quest - VsAlgo</p>
+          <p className="text-muted-foreground mb-8">Variable Quest - AlgoLab</p>
 
           {/* Award Badge */}
           <div className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-gradient-to-r from-amber-100 to-orange-100 dark:from-amber-900/30 dark:to-orange-900/30 mb-8">
